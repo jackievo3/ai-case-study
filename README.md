@@ -18,6 +18,10 @@ Even tho Space X was funded with his own money, the company has gained enough ex
 
 Thanks to all the advantages named before and more, Space x has achived contracts for its space services from private and public organizations. Their main contracts are with NASA (to carry cargo and astronauts to the international space station.) and then US department of defense to launch two Falcon Heavy rockets for space test programme. Space X is a company that has continued advance in space technology and is always creating new business opportunities. One of its biggest advanges is its reusable rockets, they can reuse their boosters over and over for any type of mission, which in the past was almost impossible. The Falcon 9, can independently return to earth and land vertically on a predetermined platform, thanks to the company's AI driven technology. Ai has reduced human error in its rockets, they will set a trajectory for a certain point in space and will by navigated by an autopilot until landing phase of the mission.This permits humans to work on space exploration and investigation without worring on the trajectory. machine learning and data science are used to create convex optimization algorithm. Even the evacuation system is Ai powered to return humans safe to earth. CIMON is an AI computer head responsible to assist astronauts with their routines and science speriments, this AI isn't self trained as is not the comany intention for Ai to replece astronauts but to help, entretain, warn them about malcfuntions.
 
+<div style="text-align:center">
+    <img src="robot.jpeg" style="width:500px;" />
+</div>
+<br />
 Space X not only uses AI for their self driven rockets but also for their satellites, this are able to navigate themselves in space and down to earth, this satellites 
 are equiped with sensors that prevent collision with any material.AI processed data found the patters in satellites, space materials or debris and planets.
 
