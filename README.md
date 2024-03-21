@@ -1,6 +1,11 @@
 # ai-case-study
 # SPACE X and the use of AI for space exploration
 
+<div style="text-align:center">
+    <img src="spaceximage.jpeg" style="width:500px;" />
+</div>
+<br />
+
 ## Overview and Origin
 
 Space X is a space exploration company mainly private founded by Elon Musk on 2002. Elon Musk has as one of his biggest passions space exploration, on 2002 he was looking at the NASA schedule to send astronauts to Mars and was shocked to see that there was no timeline. He decided to meet with aerospace engineers to discuss founding a space launch company. After selling PayPal he decided to invest $100 Million in the founding of Space X with the goal of reducing space transportation costs and ultimately developing a sustainable colony on Mars.
