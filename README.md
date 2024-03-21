@@ -30,7 +30,7 @@ are equiped with sensors that prevent collision with any material.AI processed d
 
 ## Results
 <div style="text-align:center">
-    <img src="./images/IMG_3942.jpg" style="width:500px;" />
+    <img src="IMG_3942.jpg" style="width:500px;" />
 </div>
 <br />
 "With an ever-increasing launch cadence, SpaceX has surpassed other launch providers by annual vehicles launched and continues, nearly year-on-year, to set vehicle flight records." (spacexstats.xyz)
