@@ -25,7 +25,7 @@ Thanks to all the advantages named before and more, Space x has achived contract
 Space X not only uses AI for their self driven rockets but also for their satellites, this are able to navigate themselves in space and down to earth, this satellites 
 are equiped with sensors that prevent collision with any material.AI processed data found the patters in satellites, space materials or debris and planets.
 
-"MAIN COMPETITORS
+##MAIN COMPETITORS
 
 1. Blue Origin: Jeff Bezos, the CEO of Amazon, created Blue Origin in 2000. It is a spaceflight services and aerospace manufacturer. In an effort to make space travel 
      more accessible and inexpensive, Blue Origin, like SpaceX, is concentrating on constructing reusable rockets and spacecraft. (Source: Blue Origin, n.d.) 
