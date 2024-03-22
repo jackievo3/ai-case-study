@@ -26,14 +26,11 @@ Space X not only uses AI for their self driven rockets but also for their satell
 are equiped with sensors that prevent collision with any material.AI processed data found the patters in satellites, space materials or debris and planets.
 
 ## Competitors
-1. Blue Origin: Jeff Bezos, the CEO of Amazon, created Blue Origin in 2000. It is a spaceflight services and aerospace manufacturer. In an effort to make space travel 
-     more accessible and inexpensive, Blue Origin, like SpaceX, is concentrating on constructing reusable rockets and spacecraft. (Source: Blue Origin, n.d.) 
-     2. United Launch Alliance (ULA): ULA, a joint venture between Boeing and Lockheed Martin, offers launch services to both government and private clients. Although ULA's 
-     rockets are not reusable like those of SpaceX and Blue Origin, they have a strong track record of dependability and have launched many well-known missions, such as 
-     NASA's Mars rovers and the New Horizons mission to Pluto. (ULA, n.d.) 
-     3. Virgin Galactic: Richard Branson created Virgin Galactic, a space transportation business, in 2004. Virgin Galactic is concentrated on suborbital space tourism, as 
-     opposed to SpaceX and Blue Origin, who are concentrated on orbital launches and interplanetary exploration. The business has created the SpaceShipTwo, a reusable 
-     spacecraft that can transport paying passengers to and from the edge of space."(Course Sidekick, page 16)
+1. "Blue Origin: Jeff Bezos, the CEO of Amazon, created Blue Origin in 2000. It is a spaceflight services and aerospace manufacturer. In an effort to make space travel more accessible and inexpensive, Blue Origin, like SpaceX, is concentrating on constructing reusable rockets and spacecraft. (Source: Blue Origin, n.d.)
+   
+3. United Launch Alliance (ULA): ULA, a joint venture between Boeing and Lockheed Martin, offers launch services to both government and private clients. Although ULA's rockets are not reusable like those of SpaceX and Blue Origin, they have a strong track record of dependability and have launched many well-known missions, such as NASA's Mars rovers and the New Horizons mission to Pluto. (ULA, n.d.)
+   
+ 5. Virgin Galactic: Richard Branson created Virgin Galactic, a space transportation business, in 2004. Virgin Galactic is concentrated on suborbital space tourism, as opposed to SpaceX and Blue Origin, who are concentrated on orbital launches and interplanetary exploration. The business has created the SpaceShipTwo, a reusable spacecraft that can transport paying passengers to and from the edge of space."(Course Sidekick, page 16)
 
 
 
