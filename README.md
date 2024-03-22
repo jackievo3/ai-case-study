@@ -27,7 +27,7 @@ are equiped with sensors that prevent collision with any material.AI processed d
 
 "MAIN COMPETITORS
 
-     1. Blue Origin: Jeff Bezos, the CEO of Amazon, created Blue Origin in 2000. It is a spaceflight services and aerospace manufacturer. In an effort to make space travel 
+1. Blue Origin: Jeff Bezos, the CEO of Amazon, created Blue Origin in 2000. It is a spaceflight services and aerospace manufacturer. In an effort to make space travel 
      more accessible and inexpensive, Blue Origin, like SpaceX, is concentrating on constructing reusable rockets and spacecraft. (Source: Blue Origin, n.d.) 
      2. United Launch Alliance (ULA): ULA, a joint venture between Boeing and Lockheed Martin, offers launch services to both government and private clients. Although ULA's 
      rockets are not reusable like those of SpaceX and Blue Origin, they have a strong track record of dependability and have launched many well-known missions, such as 
